@@ -1,1 +1,11 @@
-
+{
+  "ID":"1",
+  "Summery":"In the authorizing on the site, the 'Login' field is blocked for input",
+  "Discription":"In the authorizing on the site, the 'Login' field is blocked for input",
+  "Steps_to_reproduced":"1. Opent the site. 2. Fill in the 'Login' field with any valid value",
+  "Expected_result":"The 'Login' field is available for entering characters",
+  "Actual_result":"The 'Login' field is blocked for entering characters",
+  "Siverity":"ASAP",
+  "Priority":"Highest",
+  "Attach":"null"
+}
